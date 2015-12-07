@@ -25,7 +25,8 @@
     "flags": "~0.1.2",
     "ip": "0.3.2",
     "nicercast": "0.1.0",
-    "nodetunes": "^0.3.0",
+    "libalac": "git://github.com/m-a-v/node-libalac.git",
+    "nodetunes": "git://github.com/m-a-v/nodetunes.git",
     "sonos": "git://github.com/stephen/node-sonos.git#stephen-1.0.0"
   },
   "license": "MIT",
